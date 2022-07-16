@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['62895369318181']
+global.owner = ['254784841589']
 global.premium = ['62895369318181']
 global.ownernomer = '62895369318181'
-global.ownername = 'Koleksibot X You🔥'
+global.ownername = 'teslas X You🔥'
 global.botname = 'REDHATBOT CLOUD 🤖'
 global.footer = 'By rootsec.xyz'
 global.ig = 'https://github.com/koleksibot'
 global.region = 'Aku Iki Wong Jowo Soko Indonesia'
 global.sc = 'https://github.com/koleksibot'
-global.myweb = 'https://wa.me/62895369318181'
+global.myweb = 'https://wa.me/+254784841589'
 global.packname = 'Di Buat Untuk Mu'
-global.author = 'By Koleksibot'
+global.author = 'By teslabot'
 global.sessionName = 'asif615'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
